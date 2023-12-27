@@ -1,0 +1,60 @@
+.login-bg {
+    background-image: url('../assets/login-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-color: #33003F; */
+    height: 100%;
+}
+
+.login-bg h1 {
+    color: white;
+    font-size: 4rem;
+    font-weight: 200;
+}
+
+.login-card {
+    background-color: #2500308f;
+    width: 40vw;
+    padding: 6%;
+    border-radius: 30px;
+}
+
+.login-card label {
+    color: white;
+    font-size: 1.2rem;
+}
+
+.login-card button {
+    width: 50%;
+    border-radius: 30px;
+    margin-top: 2%;
+}
+
+.custom-border-left {
+    border-left: 25px  solid white;
+}
+
+.custom-border-top {
+    border-top: 25px  solid white;
+}
+
+.sign-up-link {
+    color: white;
+}
+
+.sign-up-link:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+
+.register-card {
+    background-color: #2500308f;
+    border-radius: 30px;
+}
+
+.register-card label {
+    color: white;
+    font-size: 1rem;
+}
